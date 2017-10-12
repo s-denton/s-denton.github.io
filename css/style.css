@@ -2,3 +2,17 @@ html, body {
 	font-family: 'Helvetica-Nueue', 'Helvetica', sans-serif;
 	font-weight: 100;
 }
+
+div {
+	display: block;
+	background: blue;
+	color: white;
+}
+
+#projects {
+	background: red;
+}
+
+.favorites {
+	background: green;
+}
