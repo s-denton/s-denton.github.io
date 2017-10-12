@@ -11,6 +11,9 @@ div {
 
 #projects {
 	background: red;
+	margin: 20px;
+	padding: 20px;
+	width: 200px;
 }
 
 .favorites {
